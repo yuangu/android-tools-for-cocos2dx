@@ -6,6 +6,6 @@ android-tools-for-cocos2dx
 
 编译过程：
 
-1、安装Qt SDK（4.8版本以上），http://qt-project.org/downloads 
-2、qmake
-3、make
+1、安装Qt SDK（4.8版本以上），http://qt-project.org/downloads  <br /> 
+2、qmake  <br /> 
+3、make <br /> 
