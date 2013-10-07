@@ -31,7 +31,7 @@ void GetPath::fileList(QString path)
     QDir* dir = new QDir(path);
 
     QStringList filters;
-       filters << "*.cpp" << "*.cxx" << "*.cc";
+    filters << "*.cpp" << "*.cxx" << "*.cc" << "*.c";
 
 
     QFileInfo file;
